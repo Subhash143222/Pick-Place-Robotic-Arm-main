@@ -75,6 +75,4 @@ velocity: [0]
 effort: [0]"-1
 ```
 
-## **References:**
-- [Position Control](https://github.com/mission-mangal/PositionControl)
 
